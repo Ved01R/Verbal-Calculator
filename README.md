@@ -1,4 +1,4 @@
 # Verbal-Calculator
 A simple calculator
-Open it on Python IDLE
-Python version more than 3.0
+n\Open it on Python IDLE
+n\Python version more than 3.0
